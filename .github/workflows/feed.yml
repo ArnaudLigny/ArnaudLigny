@@ -12,7 +12,8 @@ jobs:
     - uses: gautamkrishnar/blog-post-workflow@master
       with:
         comment_tag_name: BLOG
-        feed_list: "https://arnaudligny.fr/atom.xml"
+        feed_list: "https://arnaudligny.fr/blog/atom.xml"
+        max_post_count: "4"
     - uses: gautamkrishnar/blog-post-workflow@master
       with:
         comment_tag_name: PODCAST
