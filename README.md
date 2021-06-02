@@ -16,4 +16,7 @@ I design and maintain 👔 [Cecil](https://cecil.app), a content driven static s
 
 ### 🎙 Génération Statique
 <!-- PODCAST:START -->
+- [Hubert Sablonnières et Matthias Dugué - Héberger du statique en France ?](https://anchor.fm/jamstatic/episodes/Hubert-Sablonnires-et-Matthias-Dugu---Hberger-du-statique-en-France-enhc1t)
+- [Nicolas Goutay - Vers une Jamstack légère et performante](https://anchor.fm/jamstatic/episodes/Nicolas-Goutay---Vers-une-Jamstack-lgre-et-performante-emunhp)
+- [Et si on faisait un podcast sur la Jamstack ?](https://anchor.fm/jamstatic/episodes/Et-si-on-faisait-un-podcast-sur-la-Jamstack-ekovh0)
 <!-- PODCAST:END -->
