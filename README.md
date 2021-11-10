@@ -1,6 +1,6 @@
 ## Hi there, I'm Arnaud 👋
 
-I design and maintain [Cecil](https://cecil.app), a content driven static site generator.
+I design and maintain [Cecil](https://github.com/Cecilapp), a content driven static site generator.
 
 ### 📇 Contact
 
