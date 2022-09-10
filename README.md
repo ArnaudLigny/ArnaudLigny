@@ -9,10 +9,10 @@ I design and maintain [Cecil](https://github.com/Cecilapp), a content driven sta
 
 ### 📝 Blog 🇫🇷
 <!-- BLOG:START -->
+- [Diffuser son podcast avec Staticast](https://arnaudligny.fr/blog/staticast-v2/)
 - [Merci Frank !](https://arnaudligny.fr/blog/merci-frank/)
 - [Générer et héberger un site web statique avec GitHub](https://arnaudligny.fr/blog/generer-et-heberger-un-site-statique-avec-github/)
 - [Créer un site e-commerce avec Cecil et Snipcart](https://arnaudligny.fr/blog/un-site-e-commerce-avec-cecil-et-snipcart/)
-- [Manipuler les assets avec Cecil](https://arnaudligny.fr/blog/manipuler-les-assets-avec-cecil/)
 <!-- BLOG:END -->
 
 ### 🎙 Génération Statique 🇫🇷
