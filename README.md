@@ -9,10 +9,10 @@ I design and maintain [Cecil](https://github.com/Cecilapp), a content driven sta
 
 ### 📝 Blog 🇫🇷
 <!-- BLOG:START -->
+- [Arrêtez de faire des sites dynamiques](https://arnaudligny.fr/blog/arretez-de-faire-des-sites-dynamiques/)
 - [Une nouvelle version de Staticast](https://arnaudligny.fr/blog/staticast-v2/)
 - [Merci Frank !](https://arnaudligny.fr/blog/merci-frank/)
 - [Un moteur de recherche sur un site statique grâce à Algolia](https://arnaudligny.fr/blog/moteur-de-recherche-algolia-site-statique/)
-- [Générer et héberger un site web statique avec GitHub](https://arnaudligny.fr/blog/generer-et-heberger-un-site-statique-avec-github/)
 <!-- BLOG:END -->
 
 ### 🎙 Génération Statique 🇫🇷
