@@ -9,10 +9,10 @@ I design and maintain [Cecil](https://github.com/Cecilapp), a content driven sta
 
 ### 📝 Blog 🇫🇷
 <!-- BLOG:START -->
+- [Commerce composable : la transformation de Promod](https://arnaudligny.fr/blog/commerce-composable-la-transformation-de-promod/)
 - [Arrêtez de faire des sites dynamiques](https://arnaudligny.fr/blog/arretez-de-faire-des-sites-dynamiques/)
 - [Une nouvelle version de Staticast](https://arnaudligny.fr/blog/staticast-v2/)
 - [Merci Frank !](https://arnaudligny.fr/blog/merci-frank/)
-- [Un moteur de recherche sur un site statique grâce à Algolia](https://arnaudligny.fr/blog/moteur-de-recherche-algolia-site-statique/)
 <!-- BLOG:END -->
 
 ### 🎙 Génération Statique 🇫🇷
