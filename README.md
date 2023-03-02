@@ -10,8 +10,8 @@ I design and maintain [Cecil](https://github.com/Cecilapp), a content driven sta
 ### 📝 Blog 🇫🇷
 <!-- BLOG:START -->
 - [Commerce composable : la transformation de Promod](https://arnaudligny.fr/blog/commerce-composable-la-transformation-de-promod/)
-- [Arrêtez de faire des sites dynamiques](https://arnaudligny.fr/blog/arretez-de-faire-des-sites-dynamiques/)
-- [Podcast : Générer un site statique avec PHP grâce à Cecil](https://arnaudligny.fr/blog/podcast-generer-un-site-statique-avec-php-grace-a-cecil/)
+- [Arrêtez de faire des sites dynamiques](https://www.24joursdeweb.fr/2022/arretez-de-faire-des-sites-dynamiques/)
+- [Podcast : Générer un site statique avec PHP grâce à Cecil](https://double-slash.dev/podcasts/cecil-static-php/)
 - [Comment intégrer une vidéo dans une page Web depuis un contenu en Markdown ?](https://arnaudligny.fr/blog/comment-integrer-une-video-dans-une-page-web-depuis-un-contenu-en-markdown/)
 <!-- BLOG:END -->
 
