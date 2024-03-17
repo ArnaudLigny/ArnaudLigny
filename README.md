@@ -9,10 +9,10 @@ I design and maintain [Cecil](https://github.com/Cecilapp), a content driven sta
 
 ### 📝 Blog 🇫🇷
 <!-- BLOG:START -->
+- [Low-Quality Image Placeholders avec Cecil](https://arnaudligny.fr/blog/cecil-lqip/)
 - [Optimisation des images avec Cecil](https://arnaudligny.fr/blog/cecil-optimisation-images/)
 - [De la refonte d&#39;un site e-commerce monolithique](https://arnaudligny.fr/blog/de-la-refonte-ecommerce-monolithique/)
 - [Commerce composable : la transformation de Promod](https://arnaudligny.fr/blog/commerce-composable-la-transformation-de-promod/)
-- [Arrêtez de faire des sites dynamiques](https://www.24joursdeweb.fr/2022/arretez-de-faire-des-sites-dynamiques/)
 <!-- BLOG:END -->
 
 ### 🎙 Génération Statique 🇫🇷
