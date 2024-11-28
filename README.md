@@ -5,7 +5,7 @@ I design and maintain [Cecil](https://github.com/Cecilapp), a content driven sta
 ### 📇 Contact
 
 - 🌍 [arnaudligny.fr](https://arnaudligny.fr)
-- 🐦 [twitter.com/ArnaudLigny](https://twitter.com/ArnaudLigny)
+- 🦋 [@arnaud.ligny.fr](https://bsky.app/profile/arnaud.ligny.fr)
 
 ### 📝 Blog 🇫🇷
 <!-- BLOG:START -->
