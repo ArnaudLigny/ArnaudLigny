@@ -2,12 +2,13 @@
 
 I design and maintain [Cecil](https://github.com/Cecilapp), a content driven static site generator.
 
-### 📇 Contact
+### ✉️ Contact
 
-- 🌍 [arnaudligny.fr](https://arnaudligny.fr)
+- 🌐 [arnaudligny.fr](https://arnaudligny.fr)
 - 🦋 [@arnaud.ligny.fr](https://bsky.app/profile/arnaud.ligny.fr)
+- 🦣 [@arnaud@gazuji.com](https://gazuji.com/@arnaud)
 
-### 📝 Blog 🇫🇷
+### 📰 Blog 🇫🇷
 <!-- BLOG:START -->
 - [Low-Quality Image Placeholders &lpar;LQIP&rpar; avec Cecil](https://arnaudligny.fr/blog/cecil-lqip/)
 - [Optimisation des images avec Cecil](https://arnaudligny.fr/blog/cecil-optimisation-images/)
