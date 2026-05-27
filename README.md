@@ -10,10 +10,10 @@ I design and maintain [Cecil](https://github.com/Cecilapp), a content driven sta
 
 ### 📰 Blog 🇫🇷
 <!-- BLOG:START -->
+- [Open-New-Tab-After-Current-Tab : ouvrir un nouvel onglet au bon endroit](https://arnaudligny.fr/blog/open-new-tab-after-current-tab/)
 - [Mon expérimentation sur le rendu des Preview Cards de Mastodon](https://arnaudligny.fr/blog/experimentation-rendu-preview-card-mastodon/)
 - [Compiler une feuille de styles Tailwind CSS avec Composer, sans Node.js](https://arnaudligny.fr/blog/tailwind-builder/)
 - [Les aventures de Jean Claude : un site web et une app mobile](https://arnaudligny.fr/blog/jean-claude-website-app/)
-- [Low-Quality Image Placeholders &lpar;LQIP&rpar;](https://arnaudligny.fr/blog/cecil-lqip/)
 <!-- BLOG:END -->
 
 ### 🎙 Génération Statique 🇫🇷
