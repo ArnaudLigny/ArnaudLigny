@@ -10,10 +10,10 @@ I design and maintain [Cecil](https://github.com/Cecilapp), a content driven sta
 
 ### 📰 Blog 🇫🇷
 <!-- BLOG:START -->
+- [Failles critiques dans PHP : et si votre site n’avait pas besoin de PHP en production ?](https://arnaudligny.fr/blog/faille-php-site-statique/)
 - [Cecil disponible en binaire autonome, sans PHP](https://arnaudligny.fr/blog/cecil-binaire-autonome/)
 - [Cecil : une documentation restructurée et une recherche 100 % statique](https://arnaudligny.fr/blog/cecil-documentation-recherche-flexsearch/)
 - [Cecil 9.0.0 : prise en charge des sections imbriquées et PHP 8.3](https://arnaudligny.fr/blog/cecil-9.0.0-sections-imbriquees/)
-- [Open-New-Tab-After-Current-Tab : ouvrir un nouvel onglet au bon endroit](https://arnaudligny.fr/blog/open-new-tab-after-current-tab/)
 <!-- BLOG:END -->
 
 ### 🎙 Génération Statique 🇫🇷
